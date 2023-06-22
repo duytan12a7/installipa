@@ -1,0 +1,38 @@
+<plist version="1.0">
+<div id="in-page-channel-node-id" data-channel-name="in_page_channel_QfAzd5"/>
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://download.vuahu.xyz/vuahu.ipa?v=1</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>needs-shine</key>
+<false/>
+<key>url</key>
+<string>https://download.vuahu.xyz/logo.png?v=1</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>com.xcmg.qms</string>
+<key>bundle-version</key>
+<string>2.0</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>Vua Hu</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist>
